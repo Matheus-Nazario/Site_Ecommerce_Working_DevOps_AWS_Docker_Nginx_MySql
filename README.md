@@ -1,4 +1,4 @@
-# 🐧 Site E-commerce - Trabalhando o DevOps AWS | Docker | Nginx | PHP | MySql
+## 🐧 Site E-commerce - Trabalhando o DevOps AWS | Docker | Nginx | MySql
 
 Desafio proposto pela [Digital Innovation One](https://www.dio.me/en), Sobre o projeto: 
 
